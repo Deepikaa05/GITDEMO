@@ -1,0 +1,5 @@
+*.log
+/dir/
+/dir2/
+static/dir
+dir3__ren.txt
